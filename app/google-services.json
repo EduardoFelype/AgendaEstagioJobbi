@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "123456789000",
-    "project_id": "jobbi-estagio-app",
-    "storage_bucket": "jobbi-estagio-app.appspot.com"
+    "project_number": "608737060407",
+    "project_id": "jobbi-e94e7",
+    "storage_bucket": "jobbi-e94e7.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123456789000:android:abcdef1234567890",
+        "mobilesdk_app_id": "1:608737060407:android:8e3a1c14013e0db19a01b2",
         "android_client_info": {
           "package_name": "com.agenda.estagio"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "123456789000-abcdefghijklmnop.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDEMO_KEY_REPLACE_WITH_YOUR_REAL_KEY"
+          "current_key": "AIzaSyCCxsAUcypUQXEpYcPbw2U5xA3DKv7nVi4"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "123456789000-abcdefghijklmnop.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
